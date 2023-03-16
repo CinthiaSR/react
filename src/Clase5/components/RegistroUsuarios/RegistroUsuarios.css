@@ -1,0 +1,39 @@
+.registro-container {
+    width: 100%;
+    padding: 4em;
+}
+
+.form-container {
+    max-width: 600px;
+    border: 1px solid #e3e3e3;
+    padding: 2em;
+}
+
+.form-group {
+    margin: 1em 0;
+}
+
+.buttonContainer {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    margin-top: 1rem;
+}
+
+.imageContainer {
+    display: flex;
+    align-items: center;
+}
+
+.fileUploader {
+    width: 50%;
+    margin-right: 54px;
+}
+
+.avatar {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid #333335;
+}
